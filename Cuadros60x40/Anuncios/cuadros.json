@@ -1,0 +1,1257 @@
+[
+    {
+      "id": 1,
+      "titulo": "Queen ",
+      "categoria": ["rock-general"],
+      "descripcion": "Rock-Rock inglés-Rock clásico",
+      "descripcionOriginal":"¡Deja que el rock invada tu espacio con nuestros cuadros únicos! Disfruta de colores vibrantes y nitidez, con una impresión de alta calidad. Montados en bastidores de madera de pino y enmarcados en trupan de 3mm, pintados en negro mate. Son el toque moderno y resistente que necesitas.",
+      "imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/queen.jpg?raw=true",
+      "precioOriginal": 65.00,
+      "precio": 49.90
+    },
+    {
+        "id": 2,
+        "titulo": "Nirvana",
+        "categoria": ["rock-general"],
+        "descripcion": "Rock-Rock Inglés-Rock Clásico-Grunge",
+        "descripcionOriginal":"Decora tus paredes con la esencia del rock, nuestros diseños e imágenes, con una impresión de alta calidad y durabilidad. Enmarcados en una base de trupan de 3mm y montados sobre bastidores de madera de pino, pintado en negro mate. Ofrecen un toque moderno y resistente, nuestros cuadros son tan duraredores como el espíritu del rock. ¡Deja que el rock resuene en tu espacio! Añade un vidrio opcional para un acabado impecable.",
+        "imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/nirvana.jpg?raw=true",
+        "precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 3,
+        "titulo": "Abbey Road - The Beatles 60 x 40",
+        "categoria": ["rock-general"],
+        "descripcion": "Rock-Rock inglés-Rock clásico",
+        "descripcionOriginal":"Decora tus paredes con la esencia del rock, nuestros diseños e imágenes, con una impresión de alta calidad y durabilidad. Enmarcados en una base de trupan de 3mm y montados sobre bastidores de madera de pino, pintado en negro mate. Ofrecen un toque moderno y resistente, nuestros cuadros son tan duraredores como el espíritu del rock. ¡Deja que el rock resuene en tu espacio! Añade un vidrio opcional para un acabado impecable.",
+        "imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/beatles.jpg?raw=true",
+        "precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 4,
+        "titulo": "Janis Joplin 60 x 40",
+        "categoria": ["rock-general"],
+        "descripcion": "Rock-Rock inglés-Rock clásico",
+        "descripcionOriginal":"Decora tus paredes con la esencia del rock, nuestros diseños e imágenes, con una impresión de alta calidad y durabilidad. Enmarcados en una base de trupan de 3mm y montados sobre bastidores de madera de pino, pintado en negro mate. Ofrecen un toque moderno y resistente, nuestros cuadros son tan duraredores como el espíritu del rock. ¡Deja que el rock resuene en tu espacio! Añade un vidrio opcional para un acabado impecable.",
+        "imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/janis.jpg?raw=true",
+        "precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 5,
+        "titulo": "The Cure 60 x 40",
+        "categoria": ["rock-general"],
+        "descripcion": "Rock-Rock inglés-Rock clásico",
+        "precioOriginal": 65.00,
+        "descripcionOriginal":"Decora tus paredes con la esencia del rock, nuestros diseños e imágenes, con una impresión de alta calidad y durabilidad. Enmarcados en una base de trupan de 3mm y montados sobre bastidores de madera de pino, pintado en negro mate. Ofrecen un toque moderno y resistente, nuestros cuadros son tan duraredores como el espíritu del rock. ¡Deja que el rock resuene en tu espacio! Añade un vidrio opcional para un acabado impecable.",
+        "imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/cure1.jpg?raw=true",
+        "precio": 49.90
+    },
+    {
+        "id": 6,
+        "titulo": "The Cure 60 x 40",
+        "categoria": ["rock-general"],
+        "descripcion": "Rock-Rock inglés-Rock clásico",
+        "descripcionOriginal":"Decora tus paredes con la esencia del rock, nuestros diseños e imágenes, con una impresión de alta calidad y durabilidad. Enmarcados en una base de trupan de 3mm y montados sobre bastidores de madera de pino, pintado en negro mate. Ofrecen un toque moderno y resistente, nuestros cuadros son tan duraredores como el espíritu del rock. ¡Deja que el rock resuene en tu espacio! Añade un vidrio opcional para un acabado impecable.",
+        "imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/cure.jpg?raw=true",
+        "precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 7,
+        "titulo": "Led Zeppelin 60 x 40",
+        "categoria": ["rock-general"],
+        "descripcion": "Rock-Rock inglés-Rock clásico",
+        "descripcionOriginal":"Decora tus paredes con la esencia del rock, nuestros diseños e imágenes, con una impresión de alta calidad y durabilidad. Enmarcados en una base de trupan de 3mm y montados sobre bastidores de madera de pino, pintado en negro mate. Ofrecen un toque moderno y resistente, nuestros cuadros son tan duraredores como el espíritu del rock. ¡Deja que el rock resuene en tu espacio! Añade un vidrio opcional para un acabado impecable.",
+        "imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/led.jpg?raw=true",
+        "precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 8,
+        "titulo": "Kurt Cobain 60 x 40",
+        "categoria": ["rock-general"],
+        "descripcion": "Rock-Rock inglés-Rock clásico-Grunge",
+        "descripcionOriginal":"Decora tus paredes con la esencia del rock, nuestros diseños e imágenes, con una impresión de alta calidad y durabilidad. Enmarcados en una base de trupan de 3mm y montados sobre bastidores de madera de pino, pintado en negro mate. Ofrecen un toque moderno y resistente, nuestros cuadros son tan duraredores como el espíritu del rock. ¡Deja que el rock resuene en tu espacio! Añade un vidrio opcional para un acabado impecable.",
+        "imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/kurt.jpg?raw=true",
+        "precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 9,
+        "titulo": "Kurt Cobain 60 x 40",
+        "categoria": ["rock-general"],
+        "descripcion": "Rock-Rock inglés-Rock clásico-Grunge",
+        "descripcionOriginal":"Decora tus paredes con la esencia del rock, nuestros diseños e imágenes, con una impresión de alta calidad y durabilidad. Enmarcados en una base de trupan de 3mm y montados sobre bastidores de madera de pino, pintado en negro mate. Ofrecen un toque moderno y resistente, nuestros cuadros son tan duraredores como el espíritu del rock. ¡Deja que el rock resuene en tu espacio! Añade un vidrio opcional para un acabado impecable.",
+        "imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/kurt1.jpg?raw=true",
+        "precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 10,
+        "titulo": "Led Zeppelin 60 x 40",
+        "categoria": ["rock-general"],
+        "descripcion": "Rock-Rock inglés-Rock clásico",
+        "descripcionOriginal":"Decora tus paredes con la esencia del rock, nuestros diseños e imágenes, con una impresión de alta calidad y durabilidad. Enmarcados en una base de trupan de 3mm y montados sobre bastidores de madera de pino, pintado en negro mate. Ofrecen un toque moderno y resistente, nuestros cuadros son tan duraredores como el espíritu del rock. ¡Deja que el rock resuene en tu espacio! Añade un vidrio opcional para un acabado impecable.",
+        "imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/led1.jpg?raw=true",
+        "precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 11,
+        "titulo": "Led Zeppelin 60 x 40",
+        "categoria": ["rock-general"],
+        "descripcion": "Rock-Rock inglés-Rock clásico",
+        "descripcionOriginal":"Decora tus paredes con la esencia del rock, nuestros diseños e imágenes, con una impresión de alta calidad y durabilidad. Enmarcados en una base de trupan de 3mm y montados sobre bastidores de madera de pino, pintado en negro mate. Ofrecen un toque moderno y resistente, nuestros cuadros son tan duraredores como el espíritu del rock. ¡Deja que el rock resuene en tu espacio! Añade un vidrio opcional para un acabado impecable.",
+        "imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/led2.jpg?raw=true",
+        "precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 12,
+        "titulo": "Pink Floyd 60 x 40",
+        "categoria": ["rock-general"],
+        "descripcion": "Rock-Rock inglés-Rock clásico-Psicodelico",
+        "descripcionOriginal":"Decora tus paredes con la esencia del rock, nuestros diseños e imágenes, con una impresión de alta calidad y durabilidad. Enmarcados en una base de trupan de 3mm y montados sobre bastidores de madera de pino, pintado en negro mate. Ofrecen un toque moderno y resistente, nuestros cuadros son tan duraredores como el espíritu del rock. ¡Deja que el rock resuene en tu espacio! Añade un vidrio opcional para un acabado impecable.",
+        "imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/pink.jpg?raw=true",
+        "precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 13,
+        "titulo": "Kiss 60 x 40",
+        "categoria": ["rock-general"],
+        "descripcion": "Rock-Rock inglés-Rock clásico-psicodelico",
+        "descripcionOriginal":"Decora tus paredes con la esencia del rock, nuestros diseños e imágenes, con una impresión de alta calidad y durabilidad. Enmarcados en una base de trupan de 3mm y montados sobre bastidores de madera de pino, pintado en negro mate. Ofrecen un toque moderno y resistente, nuestros cuadros son tan duraredores como el espíritu del rock. ¡Deja que el rock resuene en tu espacio! Añade un vidrio opcional para un acabado impecable.",
+        "imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/kiss2.jpg?raw=true",
+        "precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 14,
+        "titulo": "Jimmy Page 60 x 40",
+        "categoria": ["rock-general"],
+        "descripcion": "Rock-Rock inglés-Rock clásico",
+        "descripcionOriginal":"Decora tus paredes con la esencia del rock, nuestros diseños e imágenes, con una impresión de alta calidad y durabilidad. Enmarcados en una base de trupan de 3mm y montados sobre bastidores de madera de pino, pintado en negro mate. Ofrecen un toque moderno y resistente, nuestros cuadros son tan duraredores como el espíritu del rock. ¡Deja que el rock resuene en tu espacio! Añade un vidrio opcional para un acabado impecable.",
+        "imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/jimmy.jpg?raw=true",
+        "precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 15,
+        "titulo": "Foo Fighters 60 x 40",
+        "categoria": ["rock-general"],
+        "descripcion": "Rock-Rock inglés-Rock clásico",
+        "descripcionOriginal":"Decora tus paredes con la esencia del rock, nuestros diseños e imágenes, con una impresión de alta calidad y durabilidad. Enmarcados en una base de trupan de 3mm y montados sobre bastidores de madera de pino, pintado en negro mate. Ofrecen un toque moderno y resistente, nuestros cuadros son tan duraredores como el espíritu del rock. ¡Deja que el rock resuene en tu espacio! Añade un vidrio opcional para un acabado impecable.",
+        "imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/foo.jpg?raw=true",
+        "precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 16,
+        "titulo": "John Lennon 60 x 40",
+        "categoria": ["rock-general"],
+        "descripcion": "Rock-Rock inglés-Rock clásico",
+        "descripcionOriginal":"Decora tus paredes con la esencia del rock, nuestros diseños e imágenes, con una impresión de alta calidad y durabilidad. Enmarcados en una base de trupan de 3mm y montados sobre bastidores de madera de pino, pintado en negro mate. Ofrecen un toque moderno y resistente, nuestros cuadros son tan duraredores como el espíritu del rock. ¡Deja que el rock resuene en tu espacio! Añade un vidrio opcional para un acabado impecable.",
+        "imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/john.jpg?raw=true",
+        "precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 17,
+        "titulo": "Kiss 60 x 40",
+        "categoria": ["rock-general"],
+        "descripcion": "Rock-Rock inglés-Rock clásico",
+        "descripcionOriginal":"Decora tus paredes con la esencia del rock, nuestros diseños e imágenes, con una impresión de alta calidad y durabilidad. Enmarcados en una base de trupan de 3mm y montados sobre bastidores de madera de pino, pintado en negro mate. Ofrecen un toque moderno y resistente, nuestros cuadros son tan duraredores como el espíritu del rock. ¡Deja que el rock resuene en tu espacio! Añade un vidrio opcional para un acabado impecable.",
+        "imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/kiss.jpg?raw=true",
+        "precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 18,
+        "titulo": "Gorillaz 60 x 40",
+        "categoria": ["rock-general"],
+        "descripcion": "Rock-Rock inglés-Rock clásico",
+        "descripcionOriginal":"Decora tus paredes con la esencia del rock, nuestros diseños e imágenes, con una impresión de alta calidad y durabilidad. Enmarcados en una base de trupan de 3mm y montados sobre bastidores de madera de pino, pintado en negro mate. Ofrecen un toque moderno y resistente, nuestros cuadros son tan duraredores como el espíritu del rock. ¡Deja que el rock resuene en tu espacio! Añade un vidrio opcional para un acabado impecable.",
+        "imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/gorillaz.jpg?raw=true",
+        "precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 19,
+        "titulo": "David Bowie 60 x 40",
+        "categoria": ["rock-general"],
+        "descripcion": "Rock-Rock inglés-Rock clásico",
+        "descripcionOriginal":"Decora tus paredes con la esencia del rock, nuestros diseños e imágenes, con una impresión de alta calidad y durabilidad. Enmarcados en una base de trupan de 3mm y montados sobre bastidores de madera de pino, pintado en negro mate. Ofrecen un toque moderno y resistente, nuestros cuadros son tan duraredores como el espíritu del rock. ¡Deja que el rock resuene en tu espacio! Añade un vidrio opcional para un acabado impecable.",
+        "imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/david1.jpg?raw=true",
+        "precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 20,
+        "titulo": "David Bowie 60 x 40","categoria": ["rock-general"],
+        "descripcionOriginal":"Decora tus paredes con la esencia del rock, nuestros diseños e imágenes, con una impresión de alta calidad y durabilidad. Enmarcados en una base de trupan de 3mm y montados sobre bastidores de madera de pino, pintado en negro mate. Ofrecen un toque moderno y resistente, nuestros cuadros son tan duraredores como el espíritu del rock. ¡Deja que el rock resuene en tu espacio! Añade un vidrio opcional para un acabado impecable.",
+        "descripcion": "Rock-Rock inglés-Rock clásico","imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/david2.jpg?raw=true", "precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 21,
+        "titulo": "Elton John 60 x 40","categoria": ["rock-general"],
+        "descripcionOriginal":"Decora tus paredes con la esencia del rock, nuestros diseños e imágenes, con una impresión de alta calidad y durabilidad. Enmarcados en una base de trupan de 3mm y montados sobre bastidores de madera de pino, pintado en negro mate. Ofrecen un toque moderno y resistente, nuestros cuadros son tan duraredores como el espíritu del rock. ¡Deja que el rock resuene en tu espacio! Añade un vidrio opcional para un acabado impecable.",
+        "descripcion": "Rock-Rock Inglés-Rock Clásico","imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/elton.jpg?raw=true","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 22,
+        "titulo": "Oasis 60 x 40","categoria": ["rock-general"],
+        "descripcionOriginal":"Decora tus paredes con la esencia del rock, nuestros diseños e imágenes, con una impresión de alta calidad y durabilidad. Enmarcados en una base de trupan de 3mm y montados sobre bastidores de madera de pino, pintado en negro mate. Ofrecen un toque moderno y resistente, nuestros cuadros son tan duraredores como el espíritu del rock. ¡Deja que el rock resuene en tu espacio! Añade un vidrio opcional para un acabado impecable.",
+        "descripcion": "Rock-Rock Inglés-Rock Clásico-Britpop","imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/oasis.jpg?raw=true","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 23,
+        "titulo": "Oasis 60 x 40","categoria": ["rock-general"],
+        "descripcionOriginal":"Decora tus paredes con la esencia del rock, nuestros diseños e imágenes, con una impresión de alta calidad y durabilidad. Enmarcados en una base de trupan de 3mm y montados sobre bastidores de madera de pino, pintado en negro mate. Ofrecen un toque moderno y resistente, nuestros cuadros son tan duraredores como el espíritu del rock. ¡Deja que el rock resuene en tu espacio! Añade un vidrio opcional para un acabado impecable.",
+        "descripcion": "Rock-Rock Inglés-Rock Clásico-Britpop","imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/oasis1.jpg?raw=true","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 24,
+        "titulo": "Oasis 60 x 40","categoria": ["rock-general"],
+        "descripcionOriginal":"Decora tus paredes con la esencia del rock, nuestros diseños e imágenes, con una impresión de alta calidad y durabilidad. Enmarcados en una base de trupan de 3mm y montados sobre bastidores de madera de pino, pintado en negro mate. Ofrecen un toque moderno y resistente, nuestros cuadros son tan duraredores como el espíritu del rock. ¡Deja que el rock resuene en tu espacio! Añade un vidrio opcional para un acabado impecable.",
+        "descripcion": "Rock-Rock Inglés-Rock Clásico-Britpop","imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/oasis2.jpg?raw=true","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 25,
+        "titulo": "Oasis 60 x 40","categoria": ["rock-general"],
+        "descripcionOriginal":"Decora tus paredes con la esencia del rock, nuestros diseños e imágenes, con una impresión de alta calidad y durabilidad. Enmarcados en una base de trupan de 3mm y montados sobre bastidores de madera de pino, pintado en negro mate. Ofrecen un toque moderno y resistente, nuestros cuadros son tan duraredores como el espíritu del rock. ¡Deja que el rock resuene en tu espacio! Añade un vidrio opcional para un acabado impecable.",
+        "descripcion": "Rock-Rock Inglés-Rock Clásico-Britpop","imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/oasis5.jpg?raw=true","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 26,
+        "titulo": "Muse 60 x 40","categoria": ["rock-general"],
+        "descripcionOriginal":"Decora tus paredes con la esencia del rock, nuestros diseños e imágenes, con una impresión de alta calidad y durabilidad. Enmarcados en una base de trupan de 3mm y montados sobre bastidores de madera de pino, pintado en negro mate. Ofrecen un toque moderno y resistente, nuestros cuadros son tan duraredores como el espíritu del rock. ¡Deja que el rock resuene en tu espacio! Añade un vidrio opcional para un acabado impecable.",
+        "descripcion": "Rock-Rock Inglés-Rock Clásico","imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/muse.jpg?raw=true","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 27,
+        "titulo": "Queen 60 x 40","categoria": ["rock-general"],
+        "descripcionOriginal":"Decora tus paredes con la esencia del rock, nuestros diseños e imágenes, con una impresión de alta calidad y durabilidad. Enmarcados en una base de trupan de 3mm y montados sobre bastidores de madera de pino, pintado en negro mate. Ofrecen un toque moderno y resistente, nuestros cuadros son tan duraredores como el espíritu del rock. ¡Deja que el rock resuene en tu espacio! Añade un vidrio opcional para un acabado impecable.",
+        "descripcion": "Rock-Rock Inglés-Rock Clásico","imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/queen1.jpg?raw=true","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 28,
+        "titulo": "Ramones 60 x 40","categoria": ["rock-general"],
+        "descripcion": "Rock-Rock Inglés-Rock Clásico-punk","imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/ramones1.jpg?raw=true","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 29,
+        "titulo": "Ramones 60 x 40","categoria": ["rock-general"],
+        "descripcion": "Rock-Rock Inglés-Rock Clásico-punk","imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/ramones2.jpg?raw=true","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 30,
+        "titulo": "The Rolling Stones 60 x 40","categoria": ["rock-general"],
+        "descripcion": "Rock-Rock Inglés-Rock Clásico","imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/rolling.jpg?raw=true","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 31,
+        "titulo": "Slash Guns N' Roses 60 x 40","categoria": ["rock-general"],
+        "descripcion": "Rock-Rock Inglés-Rock Clásico-Hard","imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/slash.jpg?raw=true","precioOriginal": 65.00,
+        "precio": 49.90
+    },  
+    {
+        "id": 32,
+        "titulo": "Radiohead 60 x 40","categoria": ["rock-general"],
+        "descripcion": "Rock-Rock Inglés-Rock Clásico-Alternativo","imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/radio.jpg?raw=true","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 33,
+        "titulo": "Tom Yorke Radiohead 60 x 40","categoria": ["rock-general"],
+        "descripcion": "Rock-Rock Inglés-Rock Clásico-Alternativo","imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/tom.jpg?raw=true","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 34,
+        "titulo": "Sex Pistols 60 x 40","categoria": ["rock-general"],
+        "descripcion": "Rock-Rock Inglés-Rock Clásico-Punk","imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/sex.jpg?raw=true","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 35,
+        "titulo": "Pearl Jam 60 x 40","categoria": ["rock-general"],
+        "descripcion": "Rock-Rock Inglés-Rock Clásico-Grunge","imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/pearl.jpg?raw=true","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 36,
+        "titulo": "Bob Marley 60 x 40","categoria": ["rock-general"],
+        "descripcion": "Rock-Rock Inglés-Rock Clásico-Reggae","imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/bob1.jpg?raw=true","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 37,
+        "titulo": "Bob Marley 60 x 40","categoria": ["rock-general"],
+        "descripcion": "Rock-Rock Inglés-Rock Clásico-Reggae","imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/bob2.jpg?raw=true","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 38,
+        "titulo": "Bob Marley 60 x 40","categoria": ["rock-general"],
+        "descripcion": "Rock-Rock Inglés-Rock Clásico-Reggae","imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/bob3.jpg?raw=true","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 39,
+        "titulo": "Blink 60 x 40","categoria": ["rock-general"],
+        "descripcion": "Rock-Rock Inglés-Rock Clásico-Punk","imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/blink.jpg?raw=true","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 40,
+        "titulo": "Blink 60 x 40","categoria": ["rock-general"],
+        "descripcion": "Rock-Rock Inglés-Rock Clásico-Punk","imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/blink1.jpg?raw=true","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 41,
+        "titulo": "Blink 60 x 40","categoria": ["rock-general"],
+        "descripcion": "Rock-Rock Inglés-Rock Clásico-Punk","imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/blink3.jpg?raw=true","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 42,
+        "titulo": "Steven Tyler Aerosmith 60 x 40","categoria": ["rock-general"],
+        "descripcion": "Rock-Rock Inglés-Rock Clásico-Hard","imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/aeros.jpg?raw=true","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 43,
+        "titulo": "Axl Rose Guns N' Roses 60 x 40","categoria": ["rock-general"],
+        "descripcion": "Rock-Rock Inglés-Rock Clásico-Hard","imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/axl.jpg?raw=true","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 44,
+        "titulo": "AC / DC 60 x 40","categoria": ["rock-general"],
+        "descripcion": "Rock-Rock Inglés-Rock Clásico-Hard","imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/ac.jpg?raw=true","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 45, 
+        "titulo": "AC / DC 60 x 40","categoria": ["rock-general"],
+        "descripcion": "Rock-Rock Inglés-Rock Clásico-Hard","imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/ac1.jpg?raw=true","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 46,
+        "titulo": "AC / DC","categoria": ["rock-general"],
+        "descripcion": "Rock-Rock Inglés-Rock Clásico-Hard","imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/ac2.jpg?raw=true","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 47,
+        "titulo": "Liam Gallgher","categoria": ["rock-general"],
+        "descripcion": "Rock-Rock Inglés-Rock Clásico-Hard","imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/liam.jpg?raw=true","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 58,
+        "titulo": "Foo Fighters","categoria": ["rock-general"],
+        "descripcion": "Rock-Rock Inglés-Rock Clásico-Hard","imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/foo.jpg?raw=true","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 51,
+        "titulo": "Foo Fighters","categoria": ["rock-general"],
+        "descripcion": "Rock-Rock Inglés-Rock Clásico-Hard","imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/foo2.jpg?raw=true","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 50,
+        "titulo": "John Frusciante Red Hot Chili Peppers 60 x 40","categoria": ["rock-general"],
+        "descripcion": "Rock-Rock Inglés-Rock Clásico-Hard","imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/johnF.jpg?raw=true","precioOriginal": 65.00,
+        "precio": 49.90
+    },    
+    {
+        "id": 51,
+        "titulo": "Blur 60 x 40","categoria": ["rock-general"],
+        "descripcion": "Rock-Rock Inglés-Rock Clásico-Hard","imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/blur.jpg?raw=true","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 52,
+        "titulo": "Blur 60 x 40","categoria": ["rock-general"],
+        "descripcion": "Rock-Rock Inglés-Rock Clásico-Hard","imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/blur1.jpg?raw=true","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 53,
+        "titulo": "Blur 60 x 40","categoria": ["rock-general"],
+        "descripcion": "Rock-Rock Inglés-Rock Clásico-Hard","imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/CuadrosRockPared/blur4.jpg?raw=true","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 101,
+        "titulo": "Bocanada Gustavo Cerati","categoria": ["rock-espanol"],
+        "descripcion": "Rock-Rock Inglés-Rock Clásico-Hard","imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/Cuadros60x40/CuadrosRockEspa%C3%B1ol/bocanada.png?raw=true","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 102,
+        "titulo": "Andres Calamaro","categoria": ["rock-espanol"],
+        "descripcion": "Rock-Rock Español-Rock Nacional","imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/Cuadros60x40/CuadrosRockEspa%C3%B1ol/calamaro.png?raw=true","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 103,
+        "titulo": "Gustavo Cerati","categoria": ["rock-espanol"],
+        "descripcion": "Rock-Rock Español-Rock Nacional","imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/Cuadros60x40/CuadrosRockEspa%C3%B1ol/cerati.png?raw=true","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 104,
+        "titulo": "Charly Garcia","categoria": ["rock-espanol"],
+        "descripcion": "Rock-Rock Español-Rock Nacional","imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/Cuadros60x40/CuadrosRockEspa%C3%B1ol/charly.png?raw=true","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 105,
+        "titulo": "Charly Garcia","categoria": ["rock-espanol"],
+        "descripcion": "Rock-Rock Español-Rock Nacional","imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/Cuadros60x40/CuadrosRockEspa%C3%B1ol/charly1.png?raw=true","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 106,
+        "titulo": "El Cuarteto de Nos","categoria": ["rock-espanol"],
+        "descripcion": "Rock-Rock Español-Rock Nacional","imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/Cuadros60x40/CuadrosRockEspa%C3%B1ol/cuartetonos.png?raw=true","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 107,
+        "titulo": "Leon Larregui","categoria": ["rock-espanol"],
+        "descripcion": "Rock-Rock Español-Rock Nacional","imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/Cuadros60x40/CuadrosRockEspa%C3%B1ol/leonlarregui.png?raw=true","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 108,
+        "titulo": "Los Prisioneros","categoria": ["rock-espanol"],
+        "descripcion": "Rock-Rock Español-Rock Nacional","imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/Cuadros60x40/CuadrosRockEspa%C3%B1ol/prisioneros1.png?raw=true","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 109,
+        "titulo": "Soda Stereo","categoria": ["rock-espanol"],
+        "descripcion": "Rock-Rock Español-Rock Nacional","imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/Cuadros60x40/CuadrosRockEspa%C3%B1ol/soda.png?raw=true","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 110,
+        "titulo": "Soda Stereo","categoria": ["rock-espanol"],
+        "descripcion": "Rock-Rock Español-Rock Nacional","imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/Cuadros60x40/CuadrosRockEspa%C3%B1ol/soda1.png?raw=true","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 111,
+        "titulo": "Soda Stereo","categoria": ["rock-espanol"],
+        "descripcion": "Rock-Rock Español-Rock Nacional","imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/Cuadros60x40/CuadrosRockEspa%C3%B1ol/soda2.png?raw=true","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 112,
+        "titulo": "Luis Alberto Spinneta","categoria": ["rock-espanol"],
+        "descripcion": "Rock-Rock Español-Rock Nacional","imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/Cuadros60x40/CuadrosRockEspa%C3%B1ol/spinneta.png?raw=true","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 113,
+        "titulo": "Andres Calamaro","categoria": ["rock-espanol"],
+        "descripcion": "Rock-Rock Español-Rock Nacional","imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/Cuadros60x40/CuadrosRockEspa%C3%B1ol/calamaro1.png?raw=true","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 115,
+        "titulo": "Charly Garcia","categoria": ["rock-espanol"],
+        "descripcion": "Rock-Rock Español-Rock Nacional","imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/Cuadros60x40/CuadrosRockEspa%C3%B1ol/charly2.png?raw=true","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 116,
+        "titulo": "Pedro Suárez-Vértiz","categoria": ["rock-espanol"],
+        "descripcion": "Rock-Rock Español-Rock Nacional","imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/Cuadros60x40/CuadrosRockEspa%C3%B1ol/pedrosuarez.png?raw=true","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 117,
+        "titulo": "Leon Larregui","categoria": ["rock-espanol"],
+        "descripcion": "Rock-Rock Español-Rock Nacional","imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/Cuadros60x40/CuadrosRockEspa%C3%B1ol/leonlarregui1.png?raw=true","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 118,
+        "titulo": "Caifanes","categoria": ["rock-espanol"],
+        "descripcion": "Rock-Rock Español-Rock Nacional","imagen": "https://github.com/CharlyPromaster/MiTienda/blob/main/Cuadros60x40/Cuadros60x40/CuadrosRockEspa%C3%B1ol/caifanes.png?raw=true","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 201,
+        "titulo": "Arctic Monkeys","categoria": ["nu-metal"],
+        "descripcion": "Rock-Rock Español-Rock Nacional","imagen": "/Cuadros60x40/CuadrosNumetal2000/arctic.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 202,
+        "titulo": "Avenged Sevenfold","categoria": ["nu-metal"],
+        "descripcion": "Rock-Rock Español-Rock Nacional","imagen": "/Cuadros60x40/CuadrosNumetal2000/avengend.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 203,
+        "titulo": "Chester Bennington Linkin Park","categoria": ["nu-metal"],
+        "descripcion": "Rock-Rock Español-Rock Nacional","imagen": "/Cuadros60x40/CuadrosNumetal2000/chester.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 204,
+        "titulo": "Corey Taylo Slipknot","categoria": ["nu-metal"],
+        "descripcion": "Rock-Rock Español-Rock Nacional","imagen": "/Cuadros60x40/CuadrosNumetal2000/corey.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 205,
+        "titulo": "Deftones","categoria": ["nu-metal"],
+        "descripcion": "Rock-Rock Español-Rock Nacional","imagen": "/Cuadros60x40/CuadrosNumetal2000/deftones.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 206,
+        "titulo": "Deftones Around the Fur","categoria": ["nu-metal"],
+        "descripcion": "Rock-Rock Español-Rock Nacional","imagen": "/Cuadros60x40/CuadrosNumetal2000/deftones1.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 207,
+        "titulo": "Ghost","categoria": ["nu-metal"],
+        "descripcion": "Rock-Rock Español-Rock Nacional","imagen": "/Cuadros60x40/CuadrosNumetal2000/ghost.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 208,
+        "titulo": "Ghost","categoria": ["nu-metal"],
+        "descripcion": "Rock-Rock Español-Rock Nacional","imagen": "/Cuadros60x40/CuadrosNumetal2000/ghost1.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 209,
+        "titulo": "Ghost","categoria": ["nu-metal"],
+        "descripcion": "Rock-Rock Español-Rock Nacional","imagen": "/Cuadros60x40/CuadrosNumetal2000/ghost2.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 210,
+        "titulo": "Green Day","categoria": ["nu-metal"],
+        "descripcion": "Rock-Rock Español-Rock Nacional","imagen": "/Cuadros60x40/CuadrosNumetal2000/greenday.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 211,
+        "titulo": "Korn","categoria": ["nu-metal"],
+        "descripcion": "Rock-Rock Español-Rock Nacional","imagen": "/Cuadros60x40/CuadrosNumetal2000/korn.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 212,
+        "titulo": "Korn","categoria": ["nu-metal"],
+        "descripcion": "Rock-Rock Español-Rock Nacional","imagen": "/Cuadros60x40/CuadrosNumetal2000/korn1.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 213,
+        "titulo": "Korn","categoria": ["nu-metal"],
+        "descripcion": "Rock-Rock Español-Rock Nacional","imagen": "/Cuadros60x40/CuadrosNumetal2000/korn2.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 214,
+        "titulo": "Korn","categoria": ["nu-metal"],
+        "descripcion": "Rock-Rock Español-Rock Nacional","imagen": "/Cuadros60x40/CuadrosNumetal2000/korn3.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 215,
+        "titulo": "Limp Bizkit","categoria": ["nu-metal"],
+        "descripcion": "Rock-Rock Español-Rock Nacional","imagen": "/Cuadros60x40/CuadrosNumetal2000/limp.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 216,
+        "titulo": "Limp Bizkit","categoria": ["nu-metal"],
+        "descripcion": "Rock-Rock Español-Rock Nacional","imagen": "/Cuadros60x40/CuadrosNumetal2000/limp1.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 217,
+        "titulo": "Limp Bizkit","categoria": ["nu-metal"],
+        "descripcion": "Rock-Rock Español-Rock Nacional","imagen": "/Cuadros60x40/CuadrosNumetal2000/limp2.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 218,
+        "titulo": "Limp Bizkit","categoria": ["nu-metal"],
+        "descripcion": "Rock-Rock Español-Rock Nacional","imagen": "/Cuadros60x40/CuadrosNumetal2000/limp3.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 219,
+        "titulo": "Limp Bizkit","categoria": ["nu-metal"],
+        "descripcion": "Rock-Rock Español-Rock Nacional","imagen": "/Cuadros60x40/CuadrosNumetal2000/limp4.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 220,
+        "titulo": "Linkin Park","categoria": ["nu-metal"],
+        "descripcion": "Rock-Rock Español-Rock Nacional","imagen": "/Cuadros60x40/CuadrosNumetal2000/linkin park.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 221,
+        "titulo": "Linkin Park","categoria": ["nu-metal"],
+        "descripcion": "Rock-Rock Español-Rock Nacional","imagen": "/Cuadros60x40/CuadrosNumetal2000/linkin park1.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 222,
+        "titulo": "Linkin Park","categoria": ["nu-metal"],
+        "descripcion": "Rock-Rock Español-Rock Nacional","imagen": "/Cuadros60x40/CuadrosNumetal2000/linkin park2.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 223,
+        "titulo": "My Chemical Romance","categoria": ["nu-metal"],
+        "descripcion": "Rock-Rock Español-Rock Nacional","imagen": "/Cuadros60x40/CuadrosNumetal2000/myCR.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 224,
+        "titulo": "Rage Against The Machine","categoria": ["nu-metal"],
+        "descripcion": "Rock-Rock Español-Rock Nacional","imagen": "/Cuadros60x40/CuadrosNumetal2000/ratm.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 225,
+        "titulo": "Rage Against The Machine","categoria": ["nu-metal"],
+        "descripcion": "Rock-Rock Español-Rock Nacional","imagen": "/Cuadros60x40/CuadrosNumetal2000/ratm1.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 226,
+        "titulo": "Rage Against The Machine","categoria": ["nu-metal"],
+        "descripcion": "Rock-Rock Español-Rock Nacional","imagen": "/Cuadros60x40/CuadrosNumetal2000/ratm2.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 227,
+        "titulo": "Rage Against The Machine","categoria": ["nu-metal"],
+        "descripcion": "Rock-Rock Español-Rock Nacional","imagen": "/Cuadros60x40/CuadrosNumetal2000/ratm3.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 228,
+        "titulo": "Serj Tankian System of a Down","categoria": ["nu-metal"],
+        "descripcion": "Rock-Rock Español-Rock Nacional","imagen": "/Cuadros60x40/CuadrosNumetal2000/serj.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 229,
+        "titulo": "Slipknot","categoria": ["nu-metal"],
+        "descripcion": "Rock-Rock Español-Rock Nacional","imagen": "/Cuadros60x40/CuadrosNumetal2000/slipknot.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 230,
+        "titulo": "Slipknot","categoria": ["nu-metal"],
+        "descripcion": "Rock-Rock Español-Rock Nacional","imagen": "/Cuadros60x40/CuadrosNumetal2000/slipknot1.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 231,
+        "titulo": "Slipknot","categoria": ["nu-metal"],
+        "descripcion": "Rock-Rock Español-Rock Nacional","imagen": "/Cuadros60x40/CuadrosNumetal2000/slipknot2.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 232,
+        "titulo": "System of a Down","categoria": ["nu-metal"],
+        "descripcion": "Rock-Rock Español-Rock Nacional","imagen": "/Cuadros60x40/CuadrosNumetal2000/soad.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 233,
+        "titulo": "System Of a Down","categoria": ["nu-metal"],
+        "descripcion": "Rock-Rock Español-Rock Nacional","imagen": "/Cuadros60x40/CuadrosNumetal2000/soad1.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 301,
+        "titulo": "Anthrax","categoria": ["metalpesado"],
+        "descripcion": "Metal","imagen": "/Cuadros60x40/CuadrosMetal/anthrax.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 302,
+        "titulo": "Anthrax","categoria": ["metalpesado"],
+        "descripcion": "Metal","imagen": "/Cuadros60x40/CuadrosMetal/anthrax1.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 303,
+        "titulo": "Black Sabbath","categoria": ["metalpesado"],
+        "descripcion": "Metal","imagen": "/Cuadros60x40/CuadrosMetal/black.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 304,
+        "titulo": "Black Sabbath","categoria": ["metalpesado"],
+        "descripcion": "Metal","imagen": "/Cuadros60x40/CuadrosMetal/black1.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 305,
+        "titulo": "Black Sabbath","categoria": ["metalpesado"],
+        "descripcion": "Metal","imagen": "/Cuadros60x40/CuadrosMetal/black2.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 306,
+        "titulo": "Cannibal Corpse","categoria": ["metalpesado"],
+        "descripcion": "Metal","imagen": "/Cuadros60x40/CuadrosMetal/cannibal.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 307,
+        "titulo": "Deftones","categoria": ["metalpesado"],
+        "descripcion": "Metal","imagen": "/Cuadros60x40/CuadrosMetal/deftones.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 308,
+        "titulo": "Ghost","categoria": ["metalpesado"],
+        "descripcion": "Metal","imagen": "/Cuadros60x40/CuadrosMetal/ghost.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 309,
+        "titulo": "Gojira","categoria": ["metalpesado"],
+        "descripcion": "Metal","imagen": "/Cuadros60x40/CuadrosMetal/gojira.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 310,
+        "titulo": "Iron Maiden","categoria": ["metalpesado"],
+        "descripcion": "Metal","imagen": "/Cuadros60x40/CuadrosMetal/iron.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 311,
+        "titulo": "Iron Maiden","categoria": ["metalpesado"],
+        "descripcion": "Metal","imagen": "/Cuadros60x40/CuadrosMetal/iron1.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 312,
+        "titulo": "Iron Maiden","categoria": ["metalpesado"],
+        "descripcion": "Metal","imagen": "/Cuadros60x40/CuadrosMetal/iron2.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 313,
+        "titulo": "Iron Maiden","categoria": ["metalpesado"],
+        "descripcion": "Metal","imagen": "/Cuadros60x40/CuadrosMetal/iron3.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 314,
+        "titulo": "Korn","categoria": ["metalpesado"],
+        "descripcion": "Metal-Nu Metal","imagen": "/Cuadros60x40/CuadrosMetal/korn.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 316,
+        "titulo": "Korn","categoria": ["metalpesado"],
+        "descripcion": "Metal-Nu Metal","imagen": "/Cuadros60x40/CuadrosMetal/korn1.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 317,
+        "titulo": "Linkin Park","categoria": ["metalpesado"],
+        "descripcion": "Metal-Nu Metal","imagen": "/Cuadros60x40/CuadrosMetal/linkinpark.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 318,
+        "titulo": "Marilyn Manson","categoria": ["metalpesado"],
+        "descripcion": "Metal","imagen": "/Cuadros60x40/CuadrosMetal/marilyn.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 319,
+        "titulo": "Marilyn Manson","categoria": ["metalpesado"],
+        "descripcion": "Metal","imagen": "/Cuadros60x40/CuadrosMetal/marilyn1.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 320,
+        "titulo": "Mayhem","categoria": ["metalpesado"],
+        "descripcion": "Black Metal","imagen": "/Cuadros60x40/CuadrosMetal/mayhem.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 321,
+        "titulo": "Mayhem","categoria": ["metalpesado"],
+        "descripcion": "Black Metal","imagen": "/Cuadros60x40/CuadrosMetal/mayhem1.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 322,
+        "titulo": "Megadeth","categoria": ["metalpesado"],
+        "descripcion": "Metal","imagen": "/Cuadros60x40/CuadrosMetal/megadeth.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 323,
+        "titulo": "Megadeth","categoria": ["metalpesado"],
+        "descripcion": "Metal","imagen": "/Cuadros60x40/CuadrosMetal/megadeth1.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 324,
+        "titulo": "Megadeth","categoria": ["metalpesado"],
+        "descripcion": "Rock-Rock Español-Rock Nacional","imagen": "/Cuadros60x40/CuadrosMetal/megadeth2.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 325,
+        "titulo": "Metallica","categoria": ["metalpesado"],
+        "descripcion": "Metal","imagen": "/Cuadros60x40/CuadrosMetal/metallica.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 326,
+        "titulo": "Metallica","categoria": ["metalpesado"],
+        "descripcion": "Metal","imagen": "/Cuadros60x40/CuadrosMetal/metallica1.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 327,
+        "titulo": "Metallica","categoria": ["metalpesado"],
+        "descripcion": "Metal","imagen": "/Cuadros60x40/CuadrosMetal/metallica2.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 328,
+        "titulo": "Metallica","categoria": ["metalpesado"],
+        "descripcion": "Metal","imagen": "/Cuadros60x40/CuadrosMetal/metallica3.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 329,
+        "titulo": "Metallica","categoria": ["metalpesado"],
+        "descripcion": "Metal","imagen": "/Cuadros60x40/CuadrosMetal/metallica4.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 330,
+        "titulo": "Motley Crue","categoria": ["metalpesado"],
+        "descripcion": "Metal","imagen": "/Cuadros60x40/CuadrosMetal/motley.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 331,
+        "titulo": "Pantera","categoria": ["metalpesado"],
+        "descripcion": "Metal","imagen": "/Cuadros60x40/CuadrosMetal/pantera.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 332,
+        "titulo": "Pantera","categoria": ["metalpesado"],
+        "descripcion": "Metal","imagen": "/Cuadros60x40/CuadrosMetal/pantera2.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 333,
+        "titulo": "Pantera","categoria": ["metalpesado"],
+        "descripcion": "Metal","imagen": "/Cuadros60x40/CuadrosMetal/pantera3.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 334,
+        "titulo": "Rammstein","categoria": ["metalpesado"],
+        "descripcion": "Metal","imagen": "/Cuadros60x40/CuadrosMetal/rammstein.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 334,
+        "titulo": "Rammstein","categoria": ["metalpesado"],
+        "descripcion": "Metal","imagen": "/Cuadros60x40/CuadrosMetal/rammstein1.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 335,
+        "titulo": "Rammstein","categoria": ["metalpesado"],
+        "descripcion": "Metal","imagen": "/Cuadros60x40/CuadrosMetal/rammstein2.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 336,
+        "titulo": "Slayer","categoria": ["metalpesado"],
+        "descripcion": "Metal","imagen": "/Cuadros60x40/CuadrosMetal/slayer.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 337,
+        "titulo": "Slayer","categoria": ["metalpesado"],
+        "descripcion": "Metal","imagen": "/Cuadros60x40/CuadrosMetal/slayer1.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 338,
+        "titulo": "Slayer","categoria": ["metalpesado"],
+        "descripcion": "Metal","imagen": "/Cuadros60x40/CuadrosMetal/slayer2.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 339,
+        "titulo": "Slipknot","categoria": ["metalpesado"],
+        "descripcion": "Metal-Nu Metal-Trash Metal","imagen": "/Cuadros60x40/CuadrosMetal/slipknot.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 340,
+        "titulo": "Slipknot","categoria": ["metalpesado"],
+        "descripcion": "Metal-Nu Metal-Trash Metal","imagen": "/Cuadros60x40/CuadrosMetal/slipknot1.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 341,
+        "titulo": "System Of a Down","categoria": ["metalpesado"],
+        "descripcion": "Metal-Nu Metal-Trash Metal","imagen": "/Cuadros60x40/CuadrosMetal/soad.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 401,
+        "titulo": "Tupac","categoria": ["musica"],
+        "descripcion": "Metal-Nu Metal-Trash Metal","imagen": "/Cuadros60x40/CuadrosMusica/2pac.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 402,
+        "titulo": "Tupac","categoria": ["musica"],
+        "descripcion": "Metal-Nu Metal-Trash Metal","imagen": "/Cuadros60x40/CuadrosMusica/2pac1.jpg","precioOriginal": 65.00,
+        "precio": 52.00
+    },
+    {
+        "id": 403,
+        "titulo": "Ariana Grande","categoria": ["musica"],
+        "descripcion": "Metal-Nu Metal-Trash Metal","imagen": "/Cuadros60x40/CuadrosMusica/ariana.jpg","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 404,
+        "titulo": "Avicii","categoria": ["musica"],
+        "descripcion": "Metal-Nu Metal-Trash Metal","imagen": "/Cuadros60x40/CuadrosMusica/avicii.jpg","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 405,
+        "titulo": "The Notorious B.I.G.","categoria": ["musica"],
+        "descripcion": "Metal-Nu Metal-Trash Metal","imagen": "/Cuadros60x40/CuadrosMusica/biggie.jpg","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 406,
+        "titulo": "Billie Elish","categoria": ["musica"],
+        "descripcion": "Metal-Nu Metal-Trash Metal","imagen": "/Cuadros60x40/CuadrosMusica/billie.jpg","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 407,
+        "titulo": "Coldplay","categoria": ["musica"],
+        "descripcion": "Metal-Nu Metal-Trash Metal","imagen": "/Cuadros60x40/CuadrosMusica/coldplay.jpg","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 408,
+        "titulo": "Daft Punk","categoria": ["musica"],
+        "descripcion": "Metal-Nu Metal-Trash Metal","imagen": "/Cuadros60x40/CuadrosMusica/daft.jpg","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 409,
+        "titulo": "Dua Lipa","categoria": ["musica"],
+        "descripcion": "Metal-Nu Metal-Trash Metal","imagen": "/Cuadros60x40/CuadrosMusica/dua.jpg","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 410,
+        "titulo": "Eminem","categoria": ["musica"],
+        "descripcion": "Metal-Nu Metal-Trash Metal","imagen": "/Cuadros60x40/CuadrosMusica/eminem.jpg","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 411,
+        "titulo": "Eminem","categoria": ["musica"],
+        "descripcion": "Metal-Nu Metal-Trash Metal","imagen": "/Cuadros60x40/CuadrosMusica/eminem1.jpg","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 412,
+        "titulo": "Eminem X Dr. Dre","categoria": ["musica"],
+        "descripcion": "Metal-Nu Metal-Trash Metal","imagen": "/Cuadros60x40/CuadrosMusica/eminemXdrdre.jpg","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 413,
+        "titulo": "Harry Styles","categoria": ["musica"],
+        "descripcion": "Metal-Nu Metal-Trash Metal","imagen": "/Cuadros60x40/CuadrosMusica/harry.jpg","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 414,
+        "titulo": "Harry Styles","categoria": ["musica"],
+        "descripcion": "Metal-Nu Metal-Trash Metal","imagen": "/Cuadros60x40/CuadrosMusica/harry1.jpg","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 415,
+        "titulo": "Imagine Dragons","categoria": ["musica"],
+        "descripcion": "Metal-Nu Metal-Trash Metal","imagen": "/Cuadros60x40/CuadrosMusica/imagine.jpg","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 416,
+        "titulo": "Joji","categoria": ["musica"],
+        "descripcion": "Metal-Nu Metal-Trash Metal","imagen": "/Cuadros60x40/CuadrosMusica/joji.jpg","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 417,
+        "titulo": "Lana del Rey","categoria": ["musica"],
+        "descripcion": "Metal-Nu Metal-Trash Metal","imagen": "/Cuadros60x40/CuadrosMusica/lana.jpg","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 418,
+        "titulo": "Michael Jackson","categoria": ["musica"],
+        "descripcion": "Metal-Nu Metal-Trash Metal","imagen": "/Cuadros60x40/CuadrosMusica/michael.jpg","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 419,
+        "titulo": "Michael Jackson","categoria": ["musica"],
+        "descripcion": "Metal-Nu Metal-Trash Metal","imagen": "/Cuadros60x40/CuadrosMusica/michael1.jpg","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 420,
+        "titulo": "Olivia Rodrigo","categoria": ["musica"],
+        "descripcion": "Metal-Nu Metal-Trash Metal","imagen": "/Cuadros60x40/CuadrosMusica/olivia.jpg","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 421,
+        "titulo": "Sabrina Carpeter","categoria": ["musica"],
+        "descripcion": "Metal-Nu Metal-Trash Metal","imagen": "/Cuadros60x40/CuadrosMusica/sabrina.jpg","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 422,
+        "titulo": "Snoop Doog","categoria": ["musica"],
+        "descripcion": "Metal-Nu Metal-Trash Metal","imagen": "/Cuadros60x40/CuadrosMusica/snoop.jpg","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 423,
+        "titulo": "Snoop Doog","categoria": ["musica"],
+        "descripcion": "Metal-Nu Metal-Trash Metal","imagen": "/Cuadros60x40/CuadrosMusica/snoop1.jpg","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 424,
+        "titulo": "Tyler The Creator","categoria": ["musica"],
+        "descripcion": "Metal-Nu Metal-Trash Metal","imagen": "/Cuadros60x40/CuadrosMusica/tyler.jpg","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 425,
+        "titulo": "Tyler The Creator","categoria": ["musica"],
+        "descripcion": "Metal-Nu Metal-Trash Metal","imagen": "/Cuadros60x40/CuadrosMusica/tyler1.jpg","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 426,
+        "titulo": "The Weekend","categoria": ["musica"],
+        "descripcion": "Metal-Nu Metal-Trash Metal","imagen": "/Cuadros60x40/CuadrosMusica/weekend.jpg","precioOriginal": 65.00,
+        "precio": 49.90
+    },
+    {
+        "id": 801,
+        "titulo": "Kurt Cobain Nirvana Tríptico","categoria": ["tripticos-todo-rock"],"descripcion": "Rock-Triptico-Inglés-Rock-Clásico-Hard-grunge","imagen": "/CuadrosTripticos/TripticosRockPared/kurt1T.png","precioOriginal": 185.00,
+        "precio": 148.00
+    },
+    {
+        "id": 802,
+        "titulo": "The Beatles Tríptico","categoria": ["tripticos-todo-rock"],"descripcion": "Rock-Triptico-Inglés-Rock-Clásico","imagen": "/CuadrosTripticos/TripticosRockPared/beatlesT.png","precioOriginal": 185.00,
+        "precio": 148.00
+    },
+    {
+        "id": 803,
+        "titulo": "AC/DC Tríptico","categoria": ["tripticos-todo-rock"],"descripcion": "Rock-Triptico-Inglés-Rock-Clásico-Hard","imagen": "/CuadrosTripticos/TripticosRockPared/acdcT.png","precioOriginal": 185.00,
+        "precio": 148.00
+    },
+    {
+        "id": 804,
+        "titulo": "The cure Tríptico","categoria": ["tripticos-todo-rock"],"descripcion": "Rock-Triptico-Inglés-Rock-Clásico","imagen": "/CuadrosTripticos/TripticosRockPared/cureT.png","precioOriginal": 185.00,
+        "precio": 148.00
+    },
+    {
+        "id": 804,
+        "titulo": "Foo Fighters Tríptico","categoria": ["tripticos-todo-rock"],"descripcion": "Rock-Triptico-Inglés-Rock-Clásico-Hard-grunge","imagen": "/CuadrosTripticos/TripticosRockPared/fooT.png","precioOriginal": 185.00,
+        "precio": 148.00
+    },
+    {
+        "id": 805,
+        "titulo": "Green Day Tríptico","categoria": ["tripticos-todo-rock"],"descripcion": "Rock-Triptico-Inglés-Rock-Clásico-Hard-Punk","imagen": "/CuadrosTripticos/TripticosRockPared/greendayT.png","precioOriginal": 185.00,
+        "precio": 148.00
+    },
+    {
+        "id": 806,
+        "titulo": "Blink - 182 Tríptico","categoria": ["tripticos-todo-rock"],"descripcion": "Rock-Triptico-Inglés-Rock-Clásico-Hard-Punk","imagen": "/CuadrosTripticos/TripticosRockPared/blinkt.png","precioOriginal": 185.00,
+        "precio": 148.00
+    },
+    {
+        "id": 807,
+        "titulo": "Oasis Tríptico","categoria": ["tripticos-todo-rock"],"descripcion": "Rock-Triptico-Inglés-Rock-Clásico","imagen": "/CuadrosTripticos/TripticosRockPared/oasisT.png","precioOriginal": 185.00,
+        "precio": 148.00
+    },
+    {
+        "id": 808,
+        "titulo": "RadioHead Tríptico","categoria": ["tripticos-todo-rock"],"descripcion": "Rock-Triptico-Inglés-Rock-Clásico-Hard-grunge","imagen": "/CuadrosTripticos/TripticosRockPared/radioT.png","precioOriginal": 185.00,
+        "precio": 148.00
+    },
+    {
+        "id": 809,
+        "titulo": "Pink Floyd Tríptico","categoria": ["tripticos-todo-rock"],"descripcion": "Rock-Triptico-Inglés-Rock-Clásico-Hard","imagen": "/CuadrosTripticos/TripticosRockPared/pinkT.png","precioOriginal": 185.00,
+        "precio": 148.00
+    },
+    {
+        "id": 810,
+        "titulo": "The Rolling Stones Tríptico","categoria": ["tripticos-todo-rock"],"descripcion": "Rock-Triptico-Inglés-Rock-Clásico","imagen": "/CuadrosTripticos/TripticosRockPared/rollingT.png","precioOriginal": 185.00,
+        "precio": 148.00
+    },
+    {
+        "id": 811,
+        "titulo": "Queen Tríptico","categoria": ["tripticos-todo-rock"],"descripcion": "Rock-Triptico-Inglés-Rock-Clásico-Hard","imagen": "/CuadrosTripticos/TripticosRockPared/queenT.png","precioOriginal": 185.00,
+        "precio": 148.00
+    },
+    {
+        "id": 812,
+        "titulo": "The Smashing Pumpkins Tríptico","categoria": ["tripticos-todo-rock"],"descripcion": "Rock-Triptico-Inglés-Rock-Clásico-Hard-grunge","imagen": "/CuadrosTripticos/TripticosRockPared/smashingT.png","precioOriginal": 185.00,
+        "precio": 148.00
+    },
+    {
+        "id": 813,
+        "titulo": "Zack Rage Against the Machine Tríptico","categoria": ["tripticos-todo-rock"],"descripcion": "Rock-Triptico-Inglés-Rock-Clásico-nu metal","imagen": "/CuadrosTripticos/TripticosRockPared/zackratmT.png","precioOriginal": 185.00,
+        "precio": 148.00
+    },
+    {
+        "id": 814,
+        "titulo": "Metallica Tríptico","categoria": ["tripticos-todo-rock"],"descripcion": "Rock-Triptico-Inglés-Rock-Clásico-metal","imagen": "/CuadrosTripticos/TripticosRockPared/metallicaT.png","precioOriginal": 185.00,
+        "precio": 148.00
+    },
+    {
+        "id": 815,
+        "titulo": "Megadeth Tríptico","categoria": ["tripticos-todo-rock"],"descripcion": "Rock-Triptico-Inglés-Rock-Clásico-metal","imagen": "/CuadrosTripticos/TripticosRockPared/megadethT.png","precioOriginal": 185.00,
+        "precio": 148.00
+    }, 
+    {
+        "id": 816,
+        "titulo": "Nirvana Tríptico","categoria": ["tripticos-todo-rock"],"descripcion": "Rock-Triptico-Inglés-Rock-Clásico-grunge","imagen": "/CuadrosTripticos/TripticosRockPared/nirvanaT.png","precioOriginal": 185.00,
+        "precio": 148.00
+    },
+    {
+        "id": 817,
+        "titulo": "Guns N' Roses Tríptico","categoria": ["tripticos-todo-rock"],"descripcion": "Rock-Triptico-Inglés-Rock-Clásico-hard","imagen": "/CuadrosTripticos/TripticosRockPared/gnrT.png","precioOriginal": 185.00,
+        "precio": 148.00
+    },
+    {
+        "id": 818,
+        "titulo": "Arctic Monekys Tríptico","categoria": ["tripticos-todo-rock"],"descripcion": "Rock-Triptico-Inglés-Rock-Clásico-Alternativo","imagen": "/CuadrosTripticos/TripticosRockPared/arcticT.png","precioOriginal": 185.00,
+        "precio": 148.00
+    },
+    {
+        "id": 819,
+        "titulo": "The Strokers Tríptico","categoria": ["tripticos-todo-rock"],"descripcion": "Rock-Triptico-Inglés-Rock-Clásico-Alternativo","imagen": "/CuadrosTripticos/TripticosRockPared/strokersT.png","precioOriginal": 185.00,
+        "precio": 148.00
+    },
+    {
+        "id": 820,
+        "titulo": "The Smiths Tríptico","categoria": ["tripticos-todo-rock"],"descripcion": "Rock-Triptico-Inglés-Rock-Clásico-Alternativo","imagen": "/CuadrosTripticos/TripticosRockPared/smithsT.png","precioOriginal": 185.00,
+        "precio": 148.00
+    },
+    {
+        "id": 821,
+        "titulo": "John Lennon","categoria": ["tripticos-todo-rock"],"descripcion": "Rock-Triptico-Inglés-Rock-Clásico-Alternativo","imagen": "/CuadrosTripticos/TripticosRockPared/lennonT.png","precioOriginal": 185.00,
+        "precio": 148.00
+    },
+    {
+        "id": 822,"titulo": "Kurt Cobain Nirvana Tríptico","categoria": ["tripticos-todo-rock"],"descripcion": "Rock-Triptico-Inglés-Rock-Clásico-grunge",
+        "imagen": "/CuadrosTripticos/TripticosRockPared/kurtT.png","precioOriginal": 185.00,
+        "precio": 148.00
+    },
+    {
+        "id": 823,"titulo": "The Beatles Tríptico","categoria": ["tripticos-todo-rock"],"descripcion": "Rock-Triptico-Inglés-Rock-Clásico-grunge",
+        "imagen": "/CuadrosTripticos/TripticosRockPared/beatles2T.png","precioOriginal": 185.00,
+        "precio": 148.00
+    },
+    {
+        "id": 825,"titulo": "Gorillaz Tríptico","categoria": ["tripticos-todo-rock"],"descripcion": "Rock-Triptico-Inglés-Rock-Clásico",
+        "imagen": "/CuadrosTripticos/TripticosRockPared/gorillazT.png","precioOriginal": 185.00,
+        "precio": 148.00
+    },
+    {
+        "id": 826,"titulo": "Deftones Tríptico","categoria": ["tripticos-todo-rock"],"descripcion": "Rock-Triptico-Inglés-Rock-Clásico-nu metal",
+        "imagen": "/CuadrosTripticos/TripticosRockPared/deftonesT.png","precioOriginal": 185.00,
+        "precio": 148.00
+    },
+    {
+        "id": 827,"titulo": "Black Sabbath Tríptico","categoria": ["tripticos-todo-rock"],"descripcion": "Rock-Triptico-Inglés-Rock-Clásico-metal",
+        "imagen": "/CuadrosTripticos/TripticosRockPared/blacksT.png","precioOriginal": 185.00,
+        "precio": 148.00
+    },
+    {
+        "id": 828,"titulo": "Red Hot Chili Peppers Tríptico","categoria": ["tripticos-todo-rock"],"descripcion": "Rock-Triptico-Inglés-Rock-Clásico",
+        "imagen": "/CuadrosTripticos/TripticosRockPared/rhcpT.png","precioOriginal": 185.00,
+        "precio": 148.00
+    },
+    {
+        "id": 829,"titulo": "Blur","categoria": ["tripticos-todo-rock"],"descripcion": "Rock-Triptico-Inglés-Rock-Clásico",
+        "imagen": "/CuadrosTripticos/TripticosRockPared/blurT.png","precioOriginal": 185.00,
+        "precio": 148.00
+    },
+    {
+        "id": 830,"titulo": "The Beatles","categoria": ["tripticos-todo-rock"],"descripcion": "Rock-Triptico-Inglés-Rock-Clásico",
+        "imagen": "/CuadrosTripticos/TripticosRockPared/beatles1T.png","precioOriginal": 185.00,
+        "precio": 148.00
+    }
+  ]
+  
